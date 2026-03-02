@@ -262,10 +262,11 @@ git push origin main  # Auto-deploys to Render
 
 ---
 
-## 📜 LICENSE
-
-Proprietary - Patent Pending  
-© 2025 Nano-Fabrication Engine Project
+##📜 LICENSE
+Proprietary - Patent Pending
+© 2026 USA Corp / Nano-Fabrication Engine Project
+See LICENSE.md for full terms regarding the Universal Standard Axiom.
+"Building arguments atom-by-atom, with atomic precision." ⚛️✨
 
 ---
 
